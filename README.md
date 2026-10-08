@@ -80,3 +80,8 @@ This is an educational ML project. Predictions are indicators for academic suppo
 - Model monitoring
 - Student progress history
 - Cloud deployment
+
+## Author
+Mayank
+
+B.tech Ai/Ml
